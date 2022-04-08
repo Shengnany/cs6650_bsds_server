@@ -1,1 +1,0 @@
-MAX_THREAD=32
